@@ -10,7 +10,7 @@ let lastCursorTime = 0;
 const firstMeeting = new Date('2020-03-31');
 const confessionNight = new Date('2022-12-15');
 const trueLoveDate = new Date('2023-01-06');
-const valentineDay = new Date('2026-02-14T00:00:00');
+const valentineDay = new Date('2026-02-13T00:00:00');
 
 // ===== CHAT CONVERSATION DATA =====
 const chatMessages = [
